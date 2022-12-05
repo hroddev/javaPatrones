@@ -1,4 +1,4 @@
-package CreationalDesgnPattern.Factory;
+package CreationalDesignPattern.Factory;
 
 public class UKPrice implements Price{
     @Override

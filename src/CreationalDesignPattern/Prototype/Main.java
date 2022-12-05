@@ -1,4 +1,4 @@
-package CreationalDesgnPattern.Prototype;
+package CreationalDesignPattern.Prototype;
 
 public class Main {
 

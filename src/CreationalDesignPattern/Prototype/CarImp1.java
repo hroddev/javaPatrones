@@ -1,4 +1,4 @@
-package CreationalDesgnPattern.Prototype;
+package CreationalDesignPattern.Prototype;
 
 public class CarImp1 {
     public String brand;

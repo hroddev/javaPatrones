@@ -1,4 +1,4 @@
-package CreationalDesgnPattern.Builder;
+package CreationalDesignPattern.Builder;
 
 public class Vehicle {
     public String brand;

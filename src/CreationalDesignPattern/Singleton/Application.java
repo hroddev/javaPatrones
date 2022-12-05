@@ -1,4 +1,4 @@
-package CreationalDesgnPattern.Singleton;
+package CreationalDesignPattern.Singleton;
 
 public class Application {
 
