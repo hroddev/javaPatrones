@@ -1,4 +1,4 @@
-package Singleton;
+package CreationalDesgnPattern.Singleton;
 
 public class Main {
 

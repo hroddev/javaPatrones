@@ -1,4 +1,4 @@
-package Builder;
+package CreationalDesgnPattern.Builder;
 
 public class Main {
 

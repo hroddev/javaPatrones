@@ -1,4 +1,4 @@
-package Factory;
+package CreationalDesgnPattern.Factory;
 
 public class PriceFactory {
     private PriceFactory(){}
